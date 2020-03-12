@@ -1,2 +1,2 @@
-# masady-s-MOD-translation
-masady's MOD translation
+# masaさんのMODの翻訳
+masaさんのMODの翻訳
